@@ -1,0 +1,5 @@
+plc_api_test\SettingsConfiguration.class
+runnerClass\TestRunner.class
+plc_api_test\plcApi.class
+plc_api_test\StateHolder.class
+plc_api_test\RSAUtility.class
